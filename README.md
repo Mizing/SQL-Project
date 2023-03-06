@@ -1,6 +1,6 @@
 # SQL-Project
 
-# Case Study #1: Awesome Chocolates ![Uploading image.png…]()
+# Case Study #1: Awesome Chocolates !
 
 <img src="https://chandoo.org/wp/wp-content/uploads/2022/08/SNAG-2244.png" width="500" height="530" />
 
