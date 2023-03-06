@@ -6,7 +6,7 @@
 ## 📚 Table of Contents
 - [Business Task](#business-task)
 - [Case Study Questions](#case-study-questions)
-- [Solution on Github](https://github.com/bivekbasu/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231-Danny's%20Diner/Solution.md)
+- [Solution on Github](https://github.com/Mizing/SQL-Project/blob/main/solution.md)
 
 ***
 
