@@ -1,6 +1,6 @@
 # SQL-Project
 
-# Case Study #1: Awesome Chocolates !
+# Case Study #1: Awesome Chocolates!
 
 <img src="https://chandoo.org/wp/wp-content/uploads/2022/08/SNAG-2244.png" width="500" height="530" />
 
@@ -12,7 +12,13 @@
 ***
 
 ## Business Task
-In this project (Case ID: Awesome chocolate (SQL)), I performed a series of SQL queries to analyze sales data for Awesome chocolate. I focused on answering various business-related questions, including identifying high-value shipments, determining the number of shipments made by each salesperson in January 2022, and comparing the sales of Milk Bars and Eclairs. Additionally, I analyzed which product sold more boxes in the first 7 days of February 2022, identified shipments with low numbers of customers and boxes, and determined the salespersons who had at least one shipment in the first 7 days of January 2022. Furthermore, I identified the salespersons who did not make any shipments in the first 7 days of January 2022, calculated the number of times we shipped more than 1,000 boxes in each month, and determined if we shipped at least one box of 'After Nines' to 'New Zealand' every month. Finally, I compared the monthly chocolate box sales between India and Australia.
+In this project (Case ID: Awesome chocolate (SQL)), I performed a series of SQL queries to analyze sales data for Awesome chocolate. I focused on answering various business-related questions, including identifying high-value shipments, determining the number of shipments made by each salesperson in January 2022, and comparing the sales of Milk Bars and Eclairs. 
+
+Additionally, I analyzed which product sold more boxes in the first 7 days of February 2022, identified shipments with low numbers of customers and boxes, and determined the salespersons who had at least one shipment in the first 7 days of January 2022. 
+
+Furthermore, I identified the salespersons who did not make any shipments in the first 7 days of January 2022, calculated the number of times we shipped more than 1,000 boxes in each month, and determined if we shipped at least one box of 'After Nines' to 'New Zealand' every month.
+
+Finally, I compared the monthly chocolate box sales between India and Australia.
 
 ## Case Study Questions
 
